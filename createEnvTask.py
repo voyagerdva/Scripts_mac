@@ -11,8 +11,8 @@ print("The name of new directory is: ", nameDir)
 pathFull = f"/Users/zhuk/SIBEDGE/PROJECT/{nameDir}"
 os.mkdir(pathFull)
 
-file1 = f"{textList[0]}_NEW.rb"
-file2 = f"{textList[0]}_Draft.rb"
+file1 = f"{textList[0]}_NEW.yml"
+file2 = f"{textList[0]}_Draft.yml"
 
 print("file1 = ", file1)
 print("file2 = ", file2)
