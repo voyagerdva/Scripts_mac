@@ -1,0 +1,16 @@
+pro	
+lt	
+rr	
+pr	
+rr-pro-lt-vno-pr-p-6	
+7
+pro	cz	zx	pr	zx-pro-cz-prg-pr-p-2	7
+pro	es	ms	pr	ms-pro-es-mad-pr-p-1	7
+pro	ie	bs	pr	bs-pro-ie-dub-pr-p-1	7
+pro	dk	ms	pr	ms-pro-dk-cph-pr-p-4	7
+pro	dk	ms	pr	ms-pro-dk-cph-pr-p-3	7
+pro	ro	ms	pr	ms-pro-ro-buh-pr-p-4	7
+pro	es	ms	pr	ms-pro-es-mad-pr-p-4	7
+pro	gb	ms	pr	ms-pro-gb-man-pr-p-4	7
+pro	dk	asg	pr	asg-pro-dk-cph-pr-p-2	7
+pro	dk	asg	pr	asg-pro-dk-cph-pr-p-1	7
